@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string-array name="rebate_options">
+        <item>0%</item>
+        <item>1%</item>
+        <item>2%</item>
+        <item>3%</item>
+        <item>4%</item>
+        <item>5%</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_about">About</string>
+
+
+
+    <string-array name="theme_options">
+        <item>System Default</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
+    </string-array>
+</resources>
